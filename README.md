@@ -1,6 +1,6 @@
 # auto-sqlmap
-# tool
-## subfinder
-## waybackurl
-## gf
-## slqmap
+  # tool
+  # subfinder
+  # waybackurl
+  # gf
+  # slqmap
