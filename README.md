@@ -6,4 +6,5 @@
 
 
 ##Usage
+
 python3  auto-sql.py
