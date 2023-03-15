@@ -8,7 +8,7 @@
 
 ## Installation
 
-Subfree can be installed using Git. Simply run the following command:
+run the following command:
 
 ```console
 git clone https://github.com/imbas007/auto-sqlmap.git
