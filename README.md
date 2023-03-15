@@ -10,4 +10,4 @@
 
 python3  auto-sql.py
 
-https://raw.githubusercontent.com/imbas007/auto-sqlmap/main/Screenshot_19.png
+ <img src=" https://raw.githubusercontent.com/imbas007/auto-sqlmap/main/Screenshot_19.png"/>
