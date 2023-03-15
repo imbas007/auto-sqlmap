@@ -3,3 +3,7 @@
 - waybackurl
 - gf
 - slqmap
+
+
+##Usage
+python3 auto-sql.py
