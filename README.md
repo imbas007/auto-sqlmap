@@ -6,5 +6,4 @@
 
 
 ##Usage
-python3  
-auto-sql.py
+python3  auto-sql.py
