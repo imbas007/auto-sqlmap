@@ -10,4 +10,6 @@
 
 python3  auto-sql.py
 
-https://prnt.sc/_sQade7GDNyQ
+<p align="center">
+    <img src="https://prnt.sc/_sQade7GDNyQ" />
+</p>
